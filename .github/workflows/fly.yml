@@ -70,7 +70,7 @@ env:
   FLY_APP: "rdns-dev"
   FLY_TLS_APP: "rdns-b1"
   FLY_PROD_ONEBOX_APP: "rdns"
-  FLY_PROD_APP: "udns"
+  FLY_PROD_APP: "clouddns"
   FLY_CFG: "fly.toml"
   FLY_TLS_CFG: "fly.tls.toml"
   FLY_DEPLOY_WAIT_SEC: "300"
